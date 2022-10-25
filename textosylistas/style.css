@@ -7,3 +7,9 @@ span.negrita{
 span.pequenia{
     font-size: smaller;
 }
+ul¨{
+    list-style-type: square;
+}
+ol{
+    list-style-image: url("img/patito.jpg");
+}
